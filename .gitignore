@@ -1,5 +1,6 @@
 figwheel_server.log
 target
 clojure.iml
-resources/public/css
-resources/public/js
+resources/public/*
+!.gitkeep
+.idea
